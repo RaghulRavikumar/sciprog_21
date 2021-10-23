@@ -1,7 +1,0 @@
-############## PRACTICAL 3 ###################
-
-TRAPEZODIAL RULE
-* C program to calculate area using for loop 
-
-PRINTING SYNTAX
-* C program to illustrate format to print different type of variables
