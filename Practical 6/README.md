@@ -2,7 +2,7 @@
 
 ## matrixmultiplication.c
 
-- C program to multiply matrix A and matrix B and save it as matrix C
+- C program to multiply matrix A and matrix B and save it as matrix C.
 
 ## Step6 -> main.c
 
@@ -10,6 +10,6 @@
 
 ## matmult.c
 
-- C program that consist of matrix multiplication function only
+- C program that consist of matrix multiplication function only.
 
 
