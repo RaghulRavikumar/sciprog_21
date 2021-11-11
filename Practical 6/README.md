@@ -6,7 +6,7 @@
 
 ## Step6 -> main.c
 
-- C program that consist of function which is in different file(matmult.c) and is called using function name. 
+- C program that consist of function, which is in different file(matmult.c) and is called using function name. 
 
 ## matmult.c
 
