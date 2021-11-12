@@ -1,4 +1,4 @@
-#PRACTICAL 7
+# PRACTICAL 7
 
 ## polynomial.c
 
