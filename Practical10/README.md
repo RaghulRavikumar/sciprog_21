@@ -7,18 +7,18 @@
 - It uses recursive function hanoi()
 
 ## Genreal Solution 
-// Let
-//
-// Rod 1 = A
-// Rod 2 = B
-// Rod 3 = C
-//
-// n disks = 2
-//
-// Disk 1 from A to B
-// Disk 2 from A      to C
-// Disk 3 from      B to C
-//
-// - Shift 'n-1' disks from Source (A) to Middle (B)
-// - Shift one disk from Source(A) to Destination (C)
-// - Shift 'n-1' disks from Middle (B) to Destination (C)
+* Let
+
+* Rod 1 = A
+* Rod 2 = B
+* Rod 3 = C
+
+* n disks = 2
+
+* Disk 1 from A to B
+* Disk 2 from A      to C
+* Disk 3 from      B to C
+
+*  Shift 'n-1' disks from Source (A) to Middle (B)
+*  Shift one disk from Source(A) to Destination (C)
+*  Shift 'n-1' disks from Middle (B) to Destination (C)
